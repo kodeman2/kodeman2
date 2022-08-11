@@ -15,5 +15,5 @@ I'm a Software Engineer, Content Creator, and Community Engineer currently open 
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kodeman2&show_icons=true&include_all_commits=true&hide_border=true" alt="kodeman's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodeman2&langs_count=8&layout=compact&hide_border=true" alt="kodeman's GitHub stats" /> |
 | ------------- | ------------- |
