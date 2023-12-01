@@ -8,9 +8,9 @@ I'm a Software Engineer, Content Creator, and Community Engineer currently open 
 
 - 😊 Pronouns: He/him.
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Nodejs.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 🌱 I’m currently learning JavaScript, Reactjs, Vuejs, Nextjs and Nodejs.
+- 😊 I’m looking for help with open source projects and software developer opportunities.
+- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer.
 - 📫 You can [view my resume](https://drive.google.com/file/d/1oRb67V83DyRa6bSwnthRqOWCSOObLJuY/view) and contact me by emailing holuwakoladey@gmail.com.
 
 ---
