@@ -11,7 +11,7 @@ I'm a Software Engineer, Content Creator, and Community Engineer currently open 
 - 🌱 I’m currently learning JavaScript, Reactjs, and Nodejs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing holuwakoladey@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1oRb67V83DyRa6bSwnthRqOWCSOObLJuY/view) and contact me by emailing holuwakoladey@gmail.com.
 
 ---
 ### Languages and Tools:
